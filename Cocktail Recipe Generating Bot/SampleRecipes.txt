@@ -1,0 +1,450 @@
+Rum Vodka Tequila Gin TripleSec RaspberryLiqueur MelonLiqueur MalibuRum
+Vodka CoffeeLiqueur
+Vodka TomatoJuice LemonJuice WorcestershireSauce Tobasco LimeWedge
+Vodka BlueCuracao Lemonade
+Vodka Rum TiaMaria OrangeJuice LemonJuice
+Vodka CoffeeLiqueur ChocolateIceCream
+Vodka Amaretto HeavyCream
+Vodka CoffeeLiqueur LightCream
+Vodka TonicWater
+Vodka LemonJuice GrapeJuice PowderedSugar OrangeSlice
+Vodka OrangeJuice
+Vodka WhiteCremeDeCacao Amaretto TripleSec LightCream
+Vodka LightRum Gin Tequila LemonJuice Coca-Cola
+Vodka TripleSec LimeJuice
+Vodka Galliano OrangeJuice
+Vodka Amaretto
+Rum Vodka Gin BlueCuracao SourMix Sprite
+Vodka Amaretto SloeGin TripleSec CranberryJuice
+Vodka BlueCuracao Lemonade TripleSec Sugar
+Vodka CherryLiqueur CranberryJuice OrangeJuice
+InstantCoffee VanillaExtract Sugar Vodka Water
+Vodka FineSugar Orange
+Vodka PeachSchnapps CranberryJuice GrapefruitJuice
+Vodka Kool-Aid
+Vodka Rum Lemonade GingerAle
+Vodka Grenadine OrangeJuice
+Vodka DryVermouth Olive
+Vodka Cointreau Juice CranberryJuice
+Vodka Baileys CoffeeLiqueur
+Vodka IcedTea LemonJuice
+Vodka PinkLemonade Sprite
+Vodka CoffeeLiqueur Baileys VanillaIceCream
+Vodka CranberryJuice GrapefruitJuice
+Vodka LimeJuice GingerAle
+Amaretto Vodka Dr.Pepper Beer 151ProofRum
+Vodka MelonLiqueur Sweet&SourMix
+Vodka Water Lemonade
+Vodka PeachSchnapps PeachNectar
+Vodka Kirschwasser StrawberryLiqueur Strawberries SchweppesRusschian
+Vodka SchweppesRusschian
+Vodka TripleSec OrangeJuice
+Gin LightRum Tequila TripleSec Vodka Coca-Cola Sweet&SourMix Bitters
+Vodka CremeDeBanane OrangeJuice Grenadine
+Vodka CremeDeBanane OrangeJuice
+Vodka BananaLiqueur OrangeJuice PeachSchnapps
+Vodka Jägermeister Sambuca
+Vodka GrapeSoda OrangeJuice
+Vodka WhiteCremeDeMenthe SouthernComfort HotChocolate
+Vodka Tequila LightRum Gin Coca-Cola
+Vodka ButterscotchSchnapps VanillaIceCream Milk
+Gin Tequila Vodka Rum TripleSec Grenadine Sweet&SourMix ClubSoda
+Vodka BlueCuracao BlueberrySchnapps 7UP SourMix
+Vodka MalibuRum Tequila OrangeJuice PineappleJuice CreamOfCoconut Grenadine
+Vodka CoffeeLiqueur Coca-Cola GuinessStout
+DarkRum Vodka TripleSec Tequila MelonLiqueur MountainDew
+Vodka RaspberryLiqueur PeachSchnapps CranberryJuice
+Vodka Rum OrangeJuice Cream
+Vodka Baileys Bourbon OrangeJuice
+Vodka Limeade HalfAndHalf Nutmeg
+Vodka Ouzo
+Vodka PeachSchnapps OrangeJuice CranberryJuice
+Vodka RaspberryLiqueur ClubSoda
+Vodka ElderflowerCordial ClubSoda LemonJuice
+Vodka Kiwi SugarSyrup
+Vodka AmaroMontenegro RubyPort BloodOrange Bitters
+Vodka Honey Fig Bitters TonicWater
+Vodka SugarSyrup PassionFruitJuice
+Vodka LimeJuice CranberryJuice Sprite
+Vodka GrapefruitJuice
+Vodka CranberryJuice Champagne
+Vodka LemonJuice CremeDeCassis SugarSyrup
+Vodka RaspberryLiqueur PineappleJuice
+Gin DryVermouth Bitters MaraschinoLiqueur
+Gin TripleSec BlueCuracao Bitters
+Gin Brandy DryVermouth ClubSoda
+Gin PeachBitters MintLeaves
+Gin SweetVermouth Bitters
+Gin OrangeLiqueur LemonJuice
+Gin GreenGingerWine Benedictine
+Gin AppleBrandy ApricotBrandy
+Gin OrangeBitters OrangeJuice
+Gin OrangeBitters YellowChartreuse
+Gin WhiteCremeDeCacao LightCream Nutmeg
+Gin DryVermouth Kummel
+Gin Water PowderedSugar
+Gin LimeJuice Bitters FineSugar ClubSoda
+Gin Grenadine PowderedSugar Pineapple Stawberries ClubSoda
+Gin LemonJuice FineSugar Orange
+Gin ClubSoda SugarCube MintLeaves Orange
+Gin LemonJuice PowderedSugar Water
+Gin LemonJuice PowderedSugar ClubSoda
+Gin LemonJuice FineSugar Grenadine Orange
+Gin ClubSoda PowderedSugar
+Gin TonicWater Lime
+Gin Brandy SweetVermouth ClubSoda
+Gin TripleSec
+Gin DubonnetRouge Bitters
+Gin Brandy SweetVermouth ClubSoda
+Gin DryVermouth ApricotBrandy Grenadine LemonJuice
+Gin GingerAle Lime
+Gin LemonJuice MaraschinoLiqueur OrangeBitters EggYolk
+Gin TripleSec LemonJuice Grenadine EggWhite
+Gin DryVermouth Anis Bitters
+Gin LemonJuice FineSugar ClubSoda Orange
+Gin CherryBrandy Grenadine Sweet&SourMix ClubSoda
+Gin GrapefruitJuice Salt
+Gin LemonJuice PowderedSugar WholeEgg ClubSoda
+Gin Sweet&SourMix WholeEgg Coca-Cola
+Gin DryVermouth Benedictine
+Gin CremeDeCacao
+Gin Grenadine LightCream EggWhite
+Gin Bitters
+Gin CherryBrandy OrangeJuice GingerAle
+Gin DryVermouth Olive
+Gin DryVermouth TripleSec OrangeBitters
+Gin DryVermouth ClubSoda PowderedSugar
+Gin SweetVermouth
+Gin MaraschinoLiqueur OrangeBitters
+Gin LightCream PowderedSugar Lemon EggWhite ClubSoda
+Gin YellowChartreuse GreenChartreuse
+Gin TripleSec PineappleJuice
+Gin TripleSec PineappleJuice Grenadine
+Gin Cognac CremeDeCassis LemonJuice
+Gin SweetVermouth OrangeJuice AngosturaBitters
+Gin Grenadine HeavyCream Milk EggWhite
+Gin LemonJuice CremeDeMure SugarSyrup
+Gin DryVermouth ApricotBrandy LemonJuice Grenadine PowderedSugar
+Gin FineSugar LemonJuice Champagne
+Gin ApricotBrandy OrangeJuice
+Gin OrangeJuice Grenadine Benedictine
+Gin CranberryJuice Grenadine
+Vodka Gin LimeJuice
+Gin Vodka Grenadine LimeJuice SugarSyrup ClubSoda
+Gin MaraschinoLiqueur LemonJuice OrangeBitters
+Gin SweetVermouth Campari
+Gin LemonJuice MaraschinoLiqueur
+Gin 7UP LemonJuice
+Gin Vodka TonicWater
+Vodka Gin Rum BlueCuracao SourMix Sprite
+Gin Grenadine Lemon EggWhite
+Gin Baileys Ouzo GrandMarnier
+Gin LimeJuice Aperol
+Gin TripleSec PineappleJuice
+Gin SweetVermouth Brandy
+Gin DryVermouth MaraschinoLiqueur Anis OrangeBitters
+Gin LemonJuice SugarSyrup Blackberries ClubSoda
+Gin MalibuRum ElderflowerCordial LimeJuice
+Gin ClubSoda Lime
+Gin OrangeJuice LemonJuice RosemarySyrup ClubSoda
+Gin Campari OrangeJuice
+Gin LightRum SweetVermouth Campari LemonJuice OrgeatSyrup
+Gin MelonLiqueur OrangeBitters LemonJuice Prosecco
+Gin LimeJuice GingerAle
+Gin LemonJuice SugarSyrup
+Gin DryVermouth Olive
+Gin SweetVermouth MaraschinoLiqueur AngosturaBitters
+Gin LimeJuice SugarSyrup
+Gin OrangeBitters GreenChartreuse SweetVermouth
+Gin TripleSec LilletBlanc LemonJuice Absinthe
+Gin OrangeLiqueur LimeJuice AngosturaBitters OrangeBitters
+Gin LilletBlanc SweetVermouth
+Gin BlueCuracao TonicWater
+Gin CremeDeCassis LimeJuice GingerAle
+Gin ElderflowerCordial SweetVermouth TonicWater
+Gin ChocolateLiqueur Amaretto
+Gin Grenadine LemonJuice ClubSoda
+Gin Rum DryVermouth Cognac LimeJuice SugarSyrup Water
+Gin DryVermouth
+Rum LimeJuice Passoa PassionFruitSyrup PeachBitters
+Rum MalibuRum PineappleJuice Prosecco
+Rum LimeJuice Bitters FineSugar EggWhite Nutmeg
+Rum LemonJuice ApricotNectar PomegranateJuice ClubSoda
+Rum LimeJuice Champagne Sugar Allspice
+Rum VanillaSyrup Espresso Coffee
+Rum DarkRum BlueCuracao Sweet&SourMix Passoa
+Rum DarkRum BananaLiqueur Grenadine PineappleJuice OrangeJuice Sweet&SourMix
+Rum GoldRum 151ProofRum Pernod Grenadine LimeJuice AngosturaBitters
+Rum Gin DryVermouth Cognac LimeJuice SugarSyrup Water
+Rum LimeJuice GrapefruitJuice MaraschinoLiqueur
+Vodka Rum LemonJuice MountainDew Everclear Surge
+Vodka Rum OrangeJuice Cream
+Rum Galliano PineappleJuice LimeJuice Prosecco
+Rum BlackCoffee WhippedCream Water
+Rum GingerAle OrangeJuice FruitPunch
+Vodka Rum Lemonade GingerAle
+Rum Amaretto Kool-Aid
+Vodka Gin Rum BlueCuracao SourMix Sprite
+Rum CondensedMilk Milk Sugar VanillaExtract Egg Nutmeg
+Rum Coffee Water BrownSugar VanillaExtract
+Rum PowderedSugar Water
+Rum Sprite
+Tequila Tabasco
+Tequila OrangeJuice Grenadine
+Tequila Tabasco
+Tequila TripleSec LimeJuice
+Tequila LemonJuice PowderedSugar
+Tequila LemonJuice Grenadine GingerAle EggWhite
+Tequila StrawberrySchnapps TripleSec LemonJuice Strawberries
+Tequila LimeJuice WatermelonJuice GrapefruitJuice MintLeaves
+Tequila BlueCuracao LimeJuice
+Tequila LimeJuice GrapefruitJuice AgaveSyrup
+Tequila Campari LimeJuice OrangeJuice RosemarySyrup
+Tequila LimeJuice GrapefruitJuice PineappleJuice
+Tequila 7UP
+Tequila GrapeSoda
+Tequila LimeJuice OrangeJuice TomatoJuice SugarSyrup
+Tequila LimeJuice AgaveSyrup
+Tequila 151ProofRum FruitPunch Sprite
+Tequila AppleCider
+Tequila Grenadine Absinthe
+Tequila CreamOfCoconut LimeJuice
+Tequila Lager
+Rum DarkRum ApricotBrandy CoffeeLiqueur FalernumSyrup OrangeJuice GrapefruitJuice LimeJuice AngosturaBitters
+Rum OrangeLiqueur RaspberrySyrup LimeJuice
+DarkRum Campari PineappleJuice LimeJuice SimpleSyrup
+Rum AvernaAmaro BlackCoffee AlmondSyrup WholeEgg
+MalibuRum PineappleJuice VanillaRum
+Rum LimeJuice Absinthe Grenadine ClubSoda
+Rum GingerAle
+Rum LimeJuice SimpleSyrup
+Rum LimeJuice AlmondSyrup CreamOfCoconut AngosturaBitters Grenadine
+Rum BlueCuracao PineappleJuice CreamOfCoconut
+Rum Vodka BlueCuracao PineappleJuice
+Rum DarkRum LimeJuice OrangeJuice GrapefruitJuice AngosturaBitters PassionFruitSyrup ClubSoda
+Rum LimeJuice SimpleSyrup BananaLiqueur
+DarkRum OrangeLiqueur OrangeJuice LimeJuice AngosturaBitters
+DarkRum CoffeeLiqueur MalibuRum 151ProofRum LemonJuice PineappleJuice
+Vodka Rum BananaLiqueur MalibuRum FruitPunch
+Rum LimeJuice SimpleSyrup Strawberries
+151ProofRum CoffeeLiqueur TripleSec Coffee WhippedCream
+Rum ElderflowerLiqueur LimeJuice RaspberrySyrup
+Rum OrangeJuice LimeJuice GardeniaMix AngosturaBitters
+Rum PassionFruitSyrup LimeJuice
+Rum LimeJuice ClubSoda FineSugar MintLeaves
+Rum DarkRum LimeJuice OrangeLiqueur AlmondSyrup SimpleSyrup
+Rum 151ProofRum LimeJuice PassionFruitSyrup AlmondSyrup AngosturaBitters
+Gin OrangeLiqueur LemonJuice EggWhite
+Gin SweetVermouth Campari
+Gin LimeJuice GingerAle SimpleSyrup
+Gin OrangeJuice GrapefruitJuice
+Gin LemonJuice SimpleSyrup
+Gin LemonJuice MaraschinoLiqueur CremeDeViolette
+Gin DryVermouth OrangeBitters
+Vodka PeachSchnapps RaspberryLiqueur PineappleJuice CranberryJuice
+Vodka MelonLiqueur PineappleJuice RhubarbBitters
+Vodka OrangeJuice CranberryJuice
+Vodka GrapefruitJuice
+Vodka CoffeeLiqueur Baileys VanillaIceCream
+Vodka RaspberryLiqueur PineappleJuice
+Vodka TripleSec LimeJuice CranberryJuice
+Vodka CranberryJuice
+Vodka Amaretto OrangeJuice ClubSoda
+Vodka PineappleJuice CranberryJuice
+Tequila Campari GrapefruitJuice LimeJuice SimpleSyrup
+Tequila LimeJuice Coca-Cola
+Tequila Campari SweetVermouth AgaveNectar
+Tequila OrangeJuice Grenadine
+Tequila Mezcal AppleJuice LimeJuice PomegranateJuice SimpleSyrup Bitters
+Tequila OrangeLiqueur LimeJuice AlmondSyrup
+Tequila TripleSec CranberryJuice SourMix
+Tequila OrangeLiqueur CranberryJuice LimeJuice
+Tequila Campari LimeJuice GrapefruitJuice SimpleSyrup
+Tequila Mezcal RaspberryLiqueur GrapefruitJuice Absinthe LimeJuice CinnamonSyrup Bitters
+Tequila PineappleJuice LimeJuice
+Tequila Amaretto LimeJuice GingerAle PassionFruitSyrup Bitters
+Tequila AgaveNectar Bitters
+BourbonWhiskey SweetVermouth Cynar Bitters
+RyeWhiskey DryVermouth MaraschinoLiqueur OrangeBitters
+RyeWhiskey Campari SweetVermouth
+RyeWhiskey Aperol LemonJuice MapleSyrup
+RyeWhiskey Rum LimeJuice Amaretto SimpleSyrup Bitters
+BourbonWhiskey Amaretto LemonJuice SimpleSyrup EggWhite
+BourbonWhiskey YellowChartreuse FernetBlanca FalernumSyrup PassionFruitBitters
+RyeWhiskey SweetVermouth Absinthe CherryLiqueur
+RyeWhiskey SweetVermouth MaraschinoLiqueur
+RyeWhiskey Absinthe LemonJuice SimpleSyrup EggWhite
+BourbonWhiskey LemonJuice PassionFruitSyrup Grenadine
+RyeWhiskey SweetVermouth DryVermouth AngosturaBitters
+BourbonWhiskey LemonJuice AmaroNonino Bitters
+RyeWhiskey AngosturaBitters SugarCube
+BourbonWhiskey LimeJuice GingerAle MapleSyrup
+BourbonWhiskey LemonJuice RedWine SimpleSyrup EggWhite
+RyeWhiskey SweetVermouth AngosturaBitters OrangeBitters
+BourbonWhiskey LimeJuice SimpleSyrup AngosturaBitters
+BourbonWhiskey SimpleSyrup SourMix ChocolateBitters WholeEgg
+RyeWhiskey YellowChartreuse SweetVermouth AngosturaBitters OrangeBitters
+BourbonWhiskey LemonJuice HoneySyrup
+RyeWhiskey Brandy SweetVermouth AmaroNonino Bitters
+Gin Brandy BourbonWhiskey LimeJuice GingerAle AngosturaBitters
+Gin Brandy BourbonWhiskey Rum LimeJuice GingerAle AngosturaBitters
+BourbonWhiskey SweetVermouth Cynar Bitters
+BourbonWhiskey Mezcal LemonJuice HoneySyrup Ginger SageLeaves GingerAle
+BourbonWhiskey LemonJuice SimpleSyrup EggWhite
+BourbonWhiskey SimpleSyrup
+BourbonWhiskey Rum Milk HeavyCream Sugar WholeEgg
+RyeWhiskey AngosturaBitters LemonJuice AlmondSyrup
+RyeWhiskey LemonJuice RedWine MapleSyrup
+BourbonWhiskey Amaretto
+BourbonWhiskey Rum CremeDeCacao Bitters
+BourbonWhiskey Gin OrangeJuice SouthernComfort
+RyeWhiskey Absinthe Bitters SugarCube
+RyeWhiskey LemonJuice PineappleJuice AngosturaBitters AlmondSyrup
+RyeWhiskey CoffeeLiqueur OrangeBitters
+ScotchWhiskey LimeJuice PowderedSugar
+ScotchWhiskey SweetVermouth Cynar
+ScotchWhiskey Drambuie
+ScotchWhiskey SweetVermouth AngosturaBitters
+ScotchWhiskey LemonJuice HoneySyrup
+ScotchWhiskey SweetVermouth CherryLiqueur OrangeJuice
+ScotchWhiskey Coca-Cola
+ScotchWhiskey SweetVermouth Benedictine AngosturaBitters
+ScotchWhiskey SweetVermouth CherryLiqueur OrangeJuice
+ScotchWhiskey LimeJuice LemonJuice SimpleSyrup
+ScotchWhiskey ClubSoda AngosturaBitters SugarCube
+ScotchWhiskey LemonJuice SimpleSyrup ClubSoda
+ScotchWhiskey SweetVermouth Bitters
+ScotchWhiskey ClubSoda SimpleSyrup MintLeaves
+ScotchWhiskey SweetVermouth Benedictine
+ScotchWhiskey GingerAle ClubSoda
+ScotchWhiskey Gin LemonJuice SimpleSyrup OrangeBitters Absinthe
+RyeWhiskey Absinthe LemonJuice SimpleSyrup EggWhite
+RyeWhiskey YellowChartreuse SweetVermouth AngosturaBitters OrangeBitters
+RyeWhiskey DryVermouth MaraschinoLiqueur OrangeBitters
+RyeWhiskey DryVermouth MaraschinoLiqueur Cynar
+RyeWhiskey LemonJuice Aperol MapleSyrup
+BourbonWhiskey SimpleSyrup MintLeaves
+BourbonWhiskey Gin OrangeJuice SouthernComfort
+BourbonWhiskey LimeJuice GingerAle MapleSyrup
+BourbonWhiskey LemonJuice Water
+BourbonWhiskey SweetVermouth Cynar Bitters
+Brandy OrangeLiqueur LemonJuice
+Rum Brandy OrangeJuice LemonJuice AlmondSyrup
+Brandy SweetVermouth YellowChartreuse AngosturaBitters
+Rum Brandy LimeJuice SimpleSyrup PeachBitters
+Rum Brandy LemonJuice PineappleJuice SimpleSyrup
+Rum Brandy PineappleJuice LimeJuice SimpleSyrup
+Rum Brandy Gin LemonJuice OrangeJuice AlmondSyrup
+RyeWhiskey Brandy SweetVermouth AmaroNonino Bitters
+Brandy OrangeLiqueur RedWine AngosturaBitters
+Brandy LimeJuice OrangeLiqueur OrangeBitters
+Brandy SweetVermouth LemonJuice WholeEgg OrangeBitters
+Gin Brandy LimeJuice GingerAle AngosturaBitters
+Gin TripleSec PineappleJuice
+Tequila TripleSec Grenadine PineappleJuice OrangeJuice
+Gin OrangeJuice PinappleJuice
+Gin TripleSec LemonJuice
+Gin Rum TripleSec LemonJuice
+Vodka PeachSchnapps PineappleJuice CranberryJuice
+Gin LimeJuice
+Vodka PeachSchnapps CranberryJuice
+Vodka Grenadine CoffeeLiqueur Milk
+Vodka CranberryJuice OrangeJuice
+Gin LemonJuice OrangeJuice Grenadine
+Vodka TripleSec CranberryJuice LimeJuice
+Tequila OrangeJuice Grenadine
+RyeWhiskey TripleSec LimeJuice HazelnutLiqueur Bitters
+RyeWhiskey OrangeLiqueur FernetBlanca
+RyeWhiskey Gin
+RyeWhiskey Tequila Bitters
+RyeWhiskey CherryLiqueur LemonJuice DryVermouth OrangeBitters
+RyeWhiskey CherryLiqueur LemonJuice Bitters
+RyeWhiskey Campari LimeJuice
+RyeWhiskey SweetVermouth Absinthe Bitters
+RyeWhiskey SweetVermouth Cognac Bitters
+RyeWhiskey SweetVermouth TripleSec LimeJuice
+RyeWhiskey SweetVermouth DryVermouth MaraschinoLiqueur Bitters
+RyeWhiskey SweetVermouth OrangeLiqueur Bitters
+RyeWhiskey LemonJuice OrangeJuice Grenadine
+RyeWhiskey Campari DryVermouth
+ScotchWhiskey Vodka
+Vodka ScotchWhiskey Bitters
+Vodka ScotchWhiskey OrangeJuice CranberryJuice
+ScotchWhiskey CoffeeLiqueur TripleSec LemonJuice
+ScotchWhiskey Sprite
+ScotchWhiskey OrangeLiqueur OrangeBitters
+ScotchWhiskey PineappleJuice
+ScotchWhiskey DryVermouth
+ScotchWhiskey Baileys
+ScotchWhiskey Gin LimeJuice
+ScotchWhiskey SweetVermouth DryVermouth Bitters
+Gin ScotchWhiskey DryVermouth
+ScotchWhiskey SweetVermouth
+ScotchWhiskey SweetVermouth Bitters SimpleSyrup
+ScotchWhiskey Tequila LemonJuice TripleSec
+Gin ScotchWhiskey
+ScotchWhiskey LemonJuice SimpleSyrup AngosturaBitters
+ScotchWhiskey Gin DryVermouth
+ScotchWhiskey Amaretto
+Vodka Jägermeister
+BourbonWhiskey Rum Jägermeister
+Vodka PeachSchnapps Jägermeister
+Tequila Jägermeister
+Vodka Jägermeister Lemonade
+Vodka Gin Tequila Rum Jägermeister TripleSec
+Vodka Gin Jägermeister
+Brandy LemonJuice OrangeLiqueur
+Brandy Gin MalibuRum Coca-Cola Grenadine
+Brandy BananaLiqueur
+Brandy SweetVermouth DryVermouth TripleSec
+Brandy Tequila OrangeJuice GingerAle
+Brandy Gin ClubSoda SweetVermouth
+Brandy Rum OrangeJuice LemonJuice LimeJuice Grenadine
+Brandy Grenadine OrangeJuice
+Brandy CoffeeLiqueur
+Brandy Gin LemonJuice SimpleSyrup Absinthe
+Brandy Rum RyeWhiskey Grenadine LemonJuice
+Brandy LemonJuice TripleSec
+Brandy LemonJuice Sugar
+Brandy CoffeeLiqueur ButterscotchSchnapps HalfAndHalf
+Brandy DryVermouth TripleSec Bitters
+Brandy SweetVermouth AngosturaBitters
+Brandy Rum OrangeLiqueur LemonJuice
+Brandy AppleJuice LemonJuice Vodka
+Brandy AngosturaBitters SugarCube
+Brandy TripleSec Rum LemonJuice
+BourbonWhiskey Amaretto Bitters
+BourbonWhiskey Gin Rum SweetVermouth SimpleSyrup LemonJuice Bitters
+BourbonWhiskey GingerAle ClubSoda
+BourbonWhiskey LemonJuice MapleSyrup
+BourbonWhiskey LemonJuice Grenadine ClubSoda
+BourbonWhiskey LimeJuice Sugar ClubSoda
+BourbonWhiskey OrangeLiqueur SweetVermouth OrangeBitters
+BourbonWhiskey Rum OrangeJuice LemonJuice SimpleSyrup Grenadine
+BourbonWhiskey LemonJuice SimpleSyrup Biters GingerAle
+BourbonWhiskey LemonJuice SimpleSyrup OrangeBitters
+BourbonWhiskey OrangeLiqueur AngosturaBitters ClubSoda
+BourbonWhiskey Rum TripleSec
+BourbonWhiskey CranberryJuice LemonJuice Sugar
+BourbonWhiskey Amaretto LemonJuice
+BourbonWhiskey TripleSec SweetVermouth LimeJuice
+Tequila Coca-Cola LemonJuice LimeJuice
+Tequila LimeJuice PineappleJuice
+Tequila Vodka OrangeJuice Grenadine
+Tequila BourbonWhiskey Vodka Grenadine LemonJuice Sprite
+Tequila BourbonWhiskey Coca-Cola
+Tequila Vodka LemonJuice CranberryJuice
+Tequila MelonLiqueur Sweet&SourMix
+Vodka Gin Tequila Rum OrangeJuice
+Tequila Vodka Rum Lemonade
+Tequila Vodka Gin Rum
+Tequila GrapefruitJuice
+Tequila OrangeLiqueur LimeJuice
+Tequila Rum Vodka Gin RaspberryLiqueur
+Tequila Vodka Rum TripleSec OrangeJuice Coca-Cola
+Tequila Gin Vodka BlueCuracao
+Vodka Tequila Gin LemonJuice LimeJuice PineappleJuice
+Vodka CoffeeLiqueur ClubSoda
+Vodka BlueCuracao PeachSchnapps Lemonade
+Vodka MalibuRum BlueCuracao PinappleJuice
+Vodka CranberryJuice Lemonade
